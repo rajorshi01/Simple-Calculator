@@ -8,3 +8,4 @@ Features:
 
 This web app is compatible with modern web browsers such as Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge. 
 It may not function optimally on outdated browsers or those with limited JavaScript support.
+![Screenshot 2024-05-03 220020](https://github.com/rajorshi01/Simple-Calculator/assets/95631867/6b03cffe-323c-454f-a902-4b558e425128)
